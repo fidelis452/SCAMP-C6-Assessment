@@ -1,0 +1,8 @@
+.container-fluid{
+    margin: 0px 50px;
+}
+@media screen and (max-width: 760px){
+    .container-fluid{
+        margin: 0px 0px;
+    }
+}
